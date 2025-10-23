@@ -9,4 +9,4 @@ Lưu ý:
 Ứng dụng chỉ chạy trên Windows
 Cần quyền Administrator để hủy một số lệnh in hệ thống
 Ứng dụng sẽ giúp bạn dọn sạch hàng đợi in trước khi khởi động lại máy
-Link download: https://github.com/nguyenhuucuongTC21B/QuanLyLenhIn/blob/main/QUAN%20LY%20LENH%20MAY%20IN.exe
+Link download: [https://github.com/nguyenhuucuongTC21B/QuanLyLenhIn/blob/main/QUAN%20LY%20LENH%20MAY%20IN.exe](https://github.com/nguyenhuucuongTC21B/QuanLyLenhIn/raw/refs/heads/main/QUAN%20LY%20LENH%20MAY%20IN.exe)
